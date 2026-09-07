@@ -1,2 +1,2 @@
-# coursera-first-repo minor update
-/usr/bin/bash: line 1: wq: command not found
+# coursera-first-repo
+Practice account for learning git
